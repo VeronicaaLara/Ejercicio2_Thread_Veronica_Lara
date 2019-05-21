@@ -8,7 +8,7 @@ public class LiebreThread extends Thread {
         super(nombre);
         int tets = 0;
        casillas = 0;
-
+//////
     }
 
 
