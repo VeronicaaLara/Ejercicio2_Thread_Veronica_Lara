@@ -6,9 +6,7 @@ public class LiebreThread extends Thread {
 
     public LiebreThread(String nombre){
         super(nombre);
-        int tets = 0;
-       casillas = 0;
-//////
+        casillas = 0;
     }
 
 
